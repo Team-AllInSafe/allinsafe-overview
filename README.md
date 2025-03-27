@@ -31,7 +31,7 @@
 
 ## 📁 프로젝트 목적
 
-> 본 프로젝트는 졸업 작품으로 진행되는 팀 프로젝트이며,  
+> 본 프로젝트는 2025 TUK 졸업 작품으로 진행되는 팀 프로젝트이며,  
 > **안전한 모바일 사용 환경 제공**을 목표로 하고 있습니다.
 
 ---
@@ -53,13 +53,13 @@
   </tr>
   <tr>
     <td align="center">팀장<br>DNS 스푸핑 탐지</td>
-    <td align="center">ARP 스푸핑<br>블루투스 보호</td>
+    <td align="center">ARP 스푸핑 탐지<br>블루투스 보호</td>
     <td align="center">화면 잠금<br>UI/UX</td>
     <td align="center">VPN 보안 연결</td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/SHCHOI-00">@SHCHOI-00</a></td>
-    <td align="center"><a href="https://github.com/현정Git허브">@현정github</a></td>
+    <td align="center"><a href="https://github.com/hjjoah">@hjjoah</a></td>
     <td align="center"><a href="https://github.com/YounYoung3141592">@YounYoung3141592</a></td>
     <td align="center"><a href="https://github.com/sua1897">@sua1897</a></td>
   </tr>
