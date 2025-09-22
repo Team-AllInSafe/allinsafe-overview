@@ -26,6 +26,7 @@
 | 블루투스 보호 | [allinsafe-bluetooth](https://github.com/Team-AllInSafe/allinsafe-bluetooth) |
 | 화면 잠금 | [allinsafe-screenlock](https://github.com/Team-AllInSafe/allinsafe-screenlock) |
 | 앱 잠금 | [allinsafe-applock](https://github.com/Team-AllInSafe/allinsafe-applock) |
+| 통합 버전 | [allinsafe](https://github.com/Team-AllInSafe/allinsafe_allmerge) |
 
 ---
 
